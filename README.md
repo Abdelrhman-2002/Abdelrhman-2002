@@ -1,16 +1,20 @@
-### Hi there 👋
+I'm Abdelrahman, a 20 years old Software Engineering Student and Competitive Programmer from Egypt. <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em> Probably Coding
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**Abdelrhman-2002/Abdelrhman-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const Abdelrahman = {
+    pronouns: "He" | "Him",
+    code: ["C++", "Python", "HTML", "CSS","C#"],
+    askMeAbout: ["web dev", "tech","Competitive Programming"],
+    technologies: {
+        databases: [ "MySql"],
+    },
+    currentFocus: "No Focus point at this time",
+};
+```
+## Contact
+[![Linkedin: Abdelrahman](https://img.shields.io/badge/-Abdelrahman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Abdelrahman-p-singh/)](/https://www.linkedin.com/in/abdelrhman-abdelhamed-155924225/)
+![GitHub followers](https://img.shields.io/github/followers/Abdelrhman-2002?label=Follow&style=social)
