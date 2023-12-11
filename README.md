@@ -7,7 +7,7 @@ I'm Abdelrahman, a Software Engineering Student and Competitive Programmer from 
 ```javascript
 const Abdelrahman = {
     pronouns: "He" | "Him",
-    code: ["C++", "Python", "HTML", "CSS","C#"],
+    code: ["C++", "Python", "HTML", "CSS","C#","JS"],
     askMeAbout: ["web dev", "tech","Competitive Programming"],
     technologies: {
         databases: [ "MySql"],
